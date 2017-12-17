@@ -1,0 +1,19 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shivangidas/node-project.git"
+  },
+  "author": "Shivangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivangidas/node-project/issues"
+  },
+  "homepage": "https://github.com/shivangidas/node-project#readme"
+}
