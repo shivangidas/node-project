@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shivangidas/node-project/issues"
   },
-  "homepage": "https://github.com/shivangidas/node-project#readme"
+  "homepage": "https://github.com/shivangidas/node-project#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
